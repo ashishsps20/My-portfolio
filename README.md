@@ -71,7 +71,7 @@ src/
 ## 📬 Contact Me
 
 - **Email:** infoashish17@gmail.com
-- **LinkedIn:** [ashish-gautam](https://www.linkedin.com/in/ashish-gautam-8abbb6322)
+- **LinkedIn:** [ashish-gautam](https://www.linkedin.com/in/ashishsps20/)
 - **GitHub:** [ashishsps20](https://github.com/ashishsps20)
 
 ---
