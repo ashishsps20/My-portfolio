@@ -18,7 +18,7 @@ export const portfolioData = {
     phone: "+91 6395634320",
     location: "Prayagraj, India",
     github: "https://github.com/ashishsps20",
-    linkedin: "https://www.linkedin.com/in/ashish-gautam-8abbb6322",
+    linkedin: "https://www.linkedin.com/in/ashishsps20/",
     resumePDF: "/resume.pdf",
   },
 
